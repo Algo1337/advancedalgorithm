@@ -9,3 +9,17 @@
   <img alt="C" src="https://github.com/user-attachments/assets/c2e68e6e-489a-42b4-ae30-8810d49a11a4">
   <p>Fluent in C/C++, C#, Python, PHP, V.</p>
 </div>
+
+# Projects
+<div align="center">
+  <pre>
+    ┌─► Cyber Shield Network Protection + Monitor v7.1.0 [ C ]
+    │   │
+    │   ├─► CyberShield Authenication API (For C#) [ V ]
+    │   └─► CyberShield VPN Client [ C# ]
+    │
+    ├─► Networky Discord Bot [ Python ]
+    │   
+    └─► SFTP Text-Editor w/ Local File Explorer [ C# ]
+  </pre>
+</div>
