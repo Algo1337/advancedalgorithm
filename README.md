@@ -11,8 +11,7 @@
 </div>
 
 # Projects
-<div align="center">
-  <pre>
+<pre>
     ┌─► Cyber Shield Network Protection + Monitor v7.1.0 [ C ]
     │   │
     │   ├─► CyberShield Authenication API (For C#) [ V ]
@@ -22,4 +21,3 @@
     │   
     └─► SFTP Text-Editor w/ Local File Explorer [ C# ]
   </pre>
-</div>
