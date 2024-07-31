@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Algorithm</h1>
-  <p>A self-taught developer for 14 years. Worked in spaces of backend web development to low level development</p>
+  <p>A self-taught developer for 14 years. Worked in spaces from backend web development to low level development</p>
 </div>
 
 # Langages
@@ -18,6 +18,9 @@
     │   └─► CyberShield VPN Client [ C# ]
     │
     ├─► Networky Discord Bot [ Python ]
+    │   │
+    │   └─► Custom DiscordCogs Module [ Python ]
+    │
     │   
     └─► SFTP Text-Editor w/ Local File Explorer [ C# ]
   </pre>
