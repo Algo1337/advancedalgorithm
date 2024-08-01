@@ -3,7 +3,7 @@
   <p>A self-taught developer for 14 years. Worked in spaces from backend web development to low level development</p>
 </div>
 
-# Langages
+# Languages
 <div align="center">
   <p>Main</p>
   <img alt="C" src="https://github.com/user-attachments/assets/c2e68e6e-489a-42b4-ae30-8810d49a11a4">
